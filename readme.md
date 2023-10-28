@@ -1,1 +1,1 @@
-This repositiory is to write reports of videos and just to store and track random things in general
+This repositiory is keep track of random things, including me, in general
