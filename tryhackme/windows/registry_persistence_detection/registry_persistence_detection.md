@@ -1,4 +1,4 @@
-# Registry Persistence Detection
+![0000](https://github.com/YouGuess21/RepOffs/assets/125740625/993431a4-077f-4c32-8504-77a40f7812d8)# Registry Persistence Detection
 ```
 Learn to use the AutoRuns PowerShell module to detect persistence mechanisms that use the Registry.
 
@@ -38,7 +38,8 @@ If you want to view the value for one of the Run keys, expand the folders and th
 
 Time to go on that path.
 
-[0000.png]
+![0000](https://github.com/YouGuess21/RepOffs/assets/125740625/1cabb0d6-024e-4331-b48d-a258f6c9164a)
+
 
  #### What is the value "Name" of the suspicious registry entry that runs during startup? Include the parenthesis. 
 
@@ -52,7 +53,8 @@ Time to go on that path.
 
 Runs it.
 
-[0001.png]
+![0001](https://github.com/YouGuess21/RepOffs/assets/125740625/f8afa68b-7148-42eb-a780-9fb888ead377)
+
 
 ```pleaseletmepersist```
 
