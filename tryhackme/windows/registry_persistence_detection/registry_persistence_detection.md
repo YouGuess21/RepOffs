@@ -1,4 +1,4 @@
-![0000](https://github.com/YouGuess21/RepOffs/assets/125740625/993431a4-077f-4c32-8504-77a40f7812d8)# Registry Persistence Detection
+# Registry Persistence Detection
 ```
 Learn to use the AutoRuns PowerShell module to detect persistence mechanisms that use the Registry.
 
